@@ -85,8 +85,6 @@ pip install -r requirements.txt
 python -m src.app
 ```
 
----
-
 
 
 ---
@@ -95,7 +93,6 @@ python -m src.app
 
 Desde la pestaña **Histórico**, podés exportar todos los eventos registrados a un archivo **CSV**.
 
----
 
 
 
