@@ -1,0 +1,9 @@
+{
+    "mode": "simulation",
+    "interval_seconds": 5,
+    "hosts": [
+        "8.8.8.8",
+        "1.1.1.1",
+        "google.com"
+    ]
+}
